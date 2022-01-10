@@ -2,7 +2,7 @@
 
 TUTORIAL:
 
-**STEP 1:** Right Click 'Start.bat'
+**STEP 1:** Download 'manacube-MCC' folder, Unzip it if required (i use 7Zip), then Right Click 'Start.bat'
 
 **STEP 2:** Change the USERNAME and PASSWORD with ur alts, u can have up to 10 accounts logged in per IP to comlpy with manacube rules, so if running on ur home pc, 9 alts, 1 
 main
