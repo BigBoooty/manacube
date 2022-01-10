@@ -1,0 +1,8 @@
+Connection has been lost
+Server is rebooting
+Server is full
+too many people
+Disconnected by server:
+kicked
+Server is shutting down!
+You have been kicked for idling for more than 15 minutes.
